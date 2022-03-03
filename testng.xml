@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Itsqe/Downloads/CommonFramework/src/test/java/com/Bill/TestCases/ImplementCases.java"><classes><class name="com.Bill.TestCases.ImplementCases"><methods><include name="firstCase"/><include name="secondCase"/></methods></class></classes></test></suite>
